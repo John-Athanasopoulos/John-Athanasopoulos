@@ -1,16 +1,15 @@
-### Hi there 👋
+# Welcome to my GitHub page!
 
-<!--
-**John-Athanasopoulos/John-Athanasopoulos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Currently studying Computer Science in University of Piraeus, Greece
+- 🔭 I’m currently working on a GUI for my java Poker Game.
+- 🌱 I’m currently learning Java and try to get in the world of Hardware Hacking.
+- 👯 I’m looking to collaborate on programming projects/hardware projects.
+- 🤔 I’m looking for help with hardware hacking. Because damn.. it's hard.
+- 💬 Ask me about anything you can think of. I might know, might not. Still we can search for an answer!
+- ⚡ Fun fact: Always wanted to be a drummer and I just got my first drum set!
+- ☠  Things I hate: Data Structures (although they are important) and everything about Networks.
 
-Here are some ideas to get you started:
+Welcome to my personal <b>GitHub</b> page! In this page I upload some of my projects that I like, in order to keep track of my work throughout the years!
+I upload a lot of different stuff, like <b>programs and programming projects 💻, write ups for CTFs 🚩 and projects associated with hardware 🔌</b>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can find some of my projects below!
