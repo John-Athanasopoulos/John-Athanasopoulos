@@ -1,6 +1,7 @@
 # Welcome to my GitHub page!
 
 - 🎓 Currently studying Computer Science at University of Piraeus, Greece
+- 🚩 Goals: Get really good at programming!
 - 🔭 I’m currently working on a GUI for my java Poker Game.
 - 🌱 I’m currently learning Java and try to get in the world of Hardware Hacking.
 - 👯 I’m looking to collaborate on programming projects/hardware projects.
