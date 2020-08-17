@@ -18,5 +18,5 @@ I upload a lot of different stuff, like <b>programs and programming projects ðŸ’
 
 You can find some of my projects below!
 
-<h5><a id="discord"></a>My Discord username:</h5>
+<h5><a id="discord"></a><b>My Discord username:</b></h5>
 AT3RM0N#9001
