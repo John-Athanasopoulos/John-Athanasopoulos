@@ -21,4 +21,9 @@ You can find some of my projects below!
 <h5><a id="discord"></a><b>My Discord username:</b></h5>
 AT3RM0N#9001
 
+<i>Statistics shown below:</i>
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=John-Athanasopoulos&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=John-Athanasopoulos&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
