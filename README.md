@@ -11,7 +11,7 @@
 - ☠  <b>Things I hate:</b> Data Structures (although they are important) and everything about Networks.
 
 ### Contact me at:
-<p><a href="mailto:john.athanasopoulos.dim@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/gmail.svg" width="26px" height="26px"></a><pre>  </pre><a href="https://www.instagram.com/giannis_.athanasopoulos/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/instagram.svg" width="26px" height="26px"></a><img src="https://github.com/John-Athanasopoulos/Java-Poker/blob/master/Photos/blank.jpg" width="12px" height="26px"><a href="#discord"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/discord.svg" width="26px" height="26px"></a><img src="https://github.com/John-Athanasopoulos/Java-Poker/blob/master/Photos/blank.jpg" width="12px" height="26px"><a href="https://www.facebook.com/profile.php?id=100004092593664"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/facebook.svg" width="26px" height="26px"></a></p>
+<p><a href="mailto:john.athanasopoulos.dim@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/gmail.svg" width="26px" height="26px"></p>
 
 ### Languages and Tools:
 
