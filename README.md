@@ -14,10 +14,9 @@
 <p><a href="mailto:john.athanasopoulos.dim@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/gmail.svg" width="26px" height="26px"></p>
 
 ### Languages and Tools:
-<p>‣ C++</p>
-<p>‣ Java</p>
-‣ Python
-‣ General knowledge of Object-Oriented Programming
+<p>‣ C++<br>‣ Java<br>
+‣ Python<br>
+‣ General knowledge of Object-Oriented Programming</p>
 
 Welcome to my personal <b>GitHub</b> page! In this page I upload some of my projects that I like, in order to keep track of my work throughout the years!
 I upload a lot of different stuff, like <b>programs and programming projects 💻, write ups for CTFs 🚩 and projects associated with hardware 🔌</b>
