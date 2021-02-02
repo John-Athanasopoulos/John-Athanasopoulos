@@ -14,9 +14,8 @@
 <p><a href="mailto:john.athanasopoulos.dim@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/gmail.svg" width="26px" height="26px"></p>
 
 ### Languages and Tools:
-
-‣ C++
-‣ Java
+<p>‣ C++</p>
+<p>‣ Java</p>
 ‣ Python
 ‣ General knowledge of Object-Oriented Programming
 
