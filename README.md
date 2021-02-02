@@ -18,6 +18,8 @@
 ‣ Python<br>
 ‣ General knowledge of Object-Oriented Programming</p>
 
+<hr>
+
 Welcome to my personal <b>GitHub</b> page! In this page I upload some of my projects that I like, in order to keep track of my work throughout the years!
 I upload a lot of different stuff, like <b>programs and programming projects 💻, write ups for CTFs 🚩 and projects associated with hardware 🔌</b>
 
