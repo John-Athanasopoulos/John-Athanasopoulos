@@ -15,7 +15,10 @@
 
 ### Languages and Tools:
 
-<p><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/cplusplus.svg" width="26px" height="26px"><img src="https://github.com/John-Athanasopoulos/Java-Poker/blob/master/Photos/blank.jpg" width="12px" height="12px"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/python.svg" width="26px" height="26px"><img src="https://github.com/John-Athanasopoulos/Java-Poker/blob/master/Photos/blank.jpg" width="12px" height="12px"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/java.svg" width="26px" height="26px"><img src="https://github.com/John-Athanasopoulos/Java-Poker/blob/master/Photos/blank.jpg" width="12px" height="12px"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/arduino.svg" width="26px" height="26px"><img src="https://github.com/John-Athanasopoulos/Java-Poker/blob/master/Photos/blank.jpg" width="12px" height="12px"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/intellijidea.svg" width="26px" height="26px"><img src="https://github.com/John-Athanasopoulos/Java-Poker/blob/master/Photos/blank.jpg" width="12px" height="12px"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/visualstudio.svg" width="26px" height="26px"><img src="https://github.com/John-Athanasopoulos/Java-Poker/blob/master/Photos/blank.jpg" width="12px" height="12px"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/github.svg" width="26px" height="26px"></p>
+‣ C++
+‣ Java
+‣ Python
+‣ General knowledge of Object-Oriented Programming
 
 Welcome to my personal <b>GitHub</b> page! In this page I upload some of my projects that I like, in order to keep track of my work throughout the years!
 I upload a lot of different stuff, like <b>programs and programming projects 💻, write ups for CTFs 🚩 and projects associated with hardware 🔌</b>
