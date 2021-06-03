@@ -30,7 +30,7 @@ AT3RM0N#9001
 
 <i>Statistics shown below:</i>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=John-Athanasopoulos&show_icons=true&theme=dark&hide=css,html,scss)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=John-Athanasopoulos&show_icons=true&theme=dark&hide=python,css,html,scss)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=John-Athanasopoulos&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
