@@ -1,16 +1,13 @@
 # Welcome to my GitHub page!
 
 - 🎓 Currently studying <b>Computer Science at University of Piraeus, Greece</b>
-- 🚩 <b>Goals:</b> Get really good at programming!
-- 🔭 I’m currently working on a GUI for my java Poker Game.
-- 🌱 I’m currently learning <b>Java</b> and try to get in the world of <b>Hardware Hacking</b>.
-- 👯 I’m looking to collaborate on <b>programming projects/hardware projects</b>.
-- 🤔 I’m looking for help with <b>hardware hacking</b>. Because damn.. it's hard.
+- 🌱 I’m currently studying <b>Java</b> to get my first Oracle Certification!
+- 👯 I’m willing to collaborate on <b>programming projects</b>.
 - 💬 Ask me about <b>anything</b> you can think of. I might know, might not. Still we can search for an answer!
-- ⚡ <b>Fun fact:</b> Always wanted to be a drummer and I just got my first drum set!
-- ☠  <b>Things I hate:</b> Data Structures (although they are important) and everything about Networks.
 
 ### Contact me at:
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ioannis-athanasopoulos-3095201b3/)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:john.athanasopoulos.dim@gmail.com)
 <p><a href="mailto:john.athanasopoulos.dim@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/gmail.svg" width="26px" height="26px"></p>
 
 ### Languages and Tools:
