@@ -35,8 +35,6 @@ You can find some of my projects below!
 
 <i>Statistics shown below:</i>
 
-[![stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=John-Athanasopoulos&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=John-Athanasopoulos&show_icons=true&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=John-Athanasopoulos&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=John-Athanasopoulos&theme=dark&layout=compact&hide=css,html,scss)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=John-Athanasopoulos&theme=dark&layout=compact&hide=css,html,scss&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
