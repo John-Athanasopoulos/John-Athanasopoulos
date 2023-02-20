@@ -34,5 +34,3 @@ You can find some of my projects below!
 <i>Statistics shown below:</i>
 
 [![John's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=John-Athanasopoulos&show_icons=true&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=John-Athanasopoulos&theme=dark&layout=compact&hide=css,html,scss&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
